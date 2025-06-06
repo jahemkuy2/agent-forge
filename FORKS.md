@@ -12,8 +12,8 @@ If you have forked and hosted a VRAM agent, add your information via a Pull Requ
 
 | GitHub Creator | Repository                                               | Deployed URL          | Agent Type    | Status  |
 | -------------- | -------------------------------------------------------- | --------------------- | ------------- | ------- |
-| @DevName       | [MyAgent](https://github.com/devname/my-agent)           | https://my-agent.com  | Trading Bot   | 🟢 Live |
-| @AnalyticsGuru | [DataAgent](https://github.com/analyticsguru/data-agent) | https://data-agent.ai | Data Analysis | 🟡 Beta |
+| @jahemkuy2       | [MyAgent](https://github.com/jahemkuy2/agent-forge)           | https://testnet.vram.ai/trading-view/0x62287f7a6f9ff6d4a197085e8d8cc45db818907e3374c8539f4220ab54659456::gvrip::GVRIP  | Trading Bot   | 🟢 Live |
+| @jahemkuy2       | [MyAgent](https://github.com/jahemkuy2/agent-forge)           | https://testnet.vram.ai/trading-view/0x9a5f69419c013e450659d424fe4af21e565d6f29ddf4bf6712ac5e81b5a57779::kill::KILL  | Trading Bot   | 🟢 Live |
 
 ### 📊 Available Statuses
 
